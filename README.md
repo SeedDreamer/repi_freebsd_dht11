@@ -1,3 +1,3 @@
 make 
-# root user run
+//root user run
 ./DHT11 4  
